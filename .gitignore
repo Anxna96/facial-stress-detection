@@ -1,0 +1,20 @@
+# Ignore virtual environment files
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model files (optional)
+*.h5
+
+# Ignore dataset folders (optional)
+fer2013ck_filtered/
+
+# Ignore system/IDE files
+.DS_Store
+.vscode/
+.idea/
