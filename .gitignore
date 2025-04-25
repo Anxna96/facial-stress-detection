@@ -8,10 +8,10 @@ pyvenv.cfg
 __pycache__/
 *.pyc
 
-# Ignore model files (optional)
+# Ignore model files 
 *.h5
 
-# Ignore dataset folders (optional)
+# Ignore dataset folders
 fer2013ck_filtered/
 
 # Ignore system/IDE files

@@ -1,4 +1,6 @@
+#Facial stress detection using CNN and in real time with mediapipe
 
+#Libraries
 import os
 import numpy as np
 import tensorflow as tf
